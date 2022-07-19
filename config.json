@@ -1,0 +1,14 @@
+{
+    "ip": "MasYa1351235126cgoo.aternos.me",
+    "port": 56644,
+    "name": "\u043b\u043e\u0445 \u0435\u0431\u0430\u043d\u044b\u0439 (bot)",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "false",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
